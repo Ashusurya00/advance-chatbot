@@ -141,4 +141,4 @@ Feel free to reach out for collaborations, improvements, or discussions on GenAI
 
 LinkedIn: www.linkedin.com/in/ashutosh-suryawanshi-26aa46378
 
-Email: ashusurya@gmail.com
+Email: ashusurya00@gmail.com
