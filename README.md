@@ -72,8 +72,8 @@ Persistence	JSON storage (chats.json)
 UI	Custom CSS + Glassmorphism
 📦 Installation & Setup
 1️⃣ Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Ashusurya00/advance-chatbot/tree/main
+cd advance-chatbot
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
